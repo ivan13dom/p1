@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    background-color:  rgb(238, 231, 231);
+    background-color:  rgb(255, 255, 255);
 }
-.titulo{
+.titulo{    
     background-color: rgb(119, 119, 119);
 
 }
